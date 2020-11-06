@@ -1,7 +1,7 @@
-### Akira's Profile
+### Nhalrath's Profile
 
 <!--
-**Akira-0181/Akira-0181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nhalrath/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Some details about me:
 
