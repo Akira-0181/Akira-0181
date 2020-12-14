@@ -6,7 +6,7 @@
 
 Details about me:
 
-- 🔭 I’m currently working on ... a simple Discord bot called [Rena](github.com/Nhalrath/Rena).
+- 🔭 I’m currently working on ... a simple Discord bot called [Rena](https://github.com/Nhalrath/Rena).
 - 🌱 I’m currently learning ... literally everything.
 - 👯 I’m looking to collaborate on ... Nothing at the moment.
 - 🤔 I’m looking for help with ... everything.
