@@ -12,5 +12,5 @@ Details about me:
 - 🤔 I’m looking for help with ... everything.
 - 💬 Ask me about ... Anything that doesn't involve personal details. 
 - 📫 How to reach me: ... Yahoo: akira.yami<span><span/>@yahoo.com, Discord: 昭義明 | Nhalrath#0181.
-- 😄 Pronouns: ... They?
+- 😄 Pronouns: ... He.
 - ⚡ Fun fact: ... I am a procrastinator, so I tend to forget important things.
