@@ -16,7 +16,7 @@ Oh, I like books and dairy foods~
 ## Details about me
 - 🔞 My age is ... 17.
 - 😄 Pronouns: ... He/Him.
-- 💻 Programming languages: ... Java and Python.
+- 💻 Programming languages: ... C++, Java and Python.
 - 🔤 My pseudonym is ... Akira Akiyoshi (昭義明).
 - 🔠 My internet nickname is ... yes, Nhalrath.
 - 🔭 I’m currently working on ... [Chie](https://github.com/Nhalrath/Chie) and [Rena](https://github.com/Nhalrath/Rena).
