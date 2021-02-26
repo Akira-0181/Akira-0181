@@ -19,7 +19,7 @@ Oh, I like books and dairy foods~
 - 💻 Programming languages: ... C++, Java and Python.
 - 🔤 My pseudonym is ... Akira Akiyoshi (昭義明).
 - 🔠 My internet nickname is ... yes, Nhalrath.
-- 🔭 I’m currently working on ... [Chie](https://github.com/Nhalrath/Chie) and [Rena](https://github.com/Nhalrath/Rena).
+- 🔭 I’m currently working on ... [Chie](https://github.com/Nhalrath/Chie), [Rena](https://github.com/Nhalrath/Rena), and some personal projects.
 - 🌱 I’m currently learning ... literally everything.
 - 🤔 I’m looking for help with ... everything.
 - 📫 How to reach me: ... Yahoo: akira.yami<span><span/>@yahoo.com, Discord: 昭義明 | Nhalrath#0181.
