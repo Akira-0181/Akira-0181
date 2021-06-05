@@ -27,5 +27,5 @@ Oh, I like books and dairy foods~
   <summary>GitHub Stats</summary>
   
   <img src="https://github-readme-stats.vercel.app/api?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left"alt="Most used language"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="Most used language"/>
 </details>
