@@ -26,6 +26,7 @@ Oh, I like books and dairy foods~
 - Visual Studio Code
 - Eclipse IDE
 - Git
+- Curl
 
 <details>
   <summary>GitHub Stats</summary>
