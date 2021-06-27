@@ -13,15 +13,19 @@ Hello there and welcome to my profile! I'm a novice at programming, so don't exp
 Oh, I like books and dairy foods~
 <br>
 
-## Details about me
-- 🔞 My age is ... 17.
-- 💻 Programming languages: ... C++, Java and Python.
-- 🔤 My pseudonym is ... Akira Akiyoshi (昭義明).
-- 🔠 My internet nickname is ... yes, Nhalrath.
-- 🌱 I’m currently learning ... literally everything.
-- 🤔 I’m looking for help with ... everything.
-- 📫 How to reach me: ... Yahoo: akira.yami<span><span/>@yahoo.com, Discord: 昭義明 | Nhalrath#0181.
-- 🏓 My hobbies are ... writing a novella, making pixel arts, and of course; programming.
+## Basic details about me
+- 🔞 My age is 17
+- 🏓 My hobbies are writing a novella, drawing pixel arts, and of course; programming
+
+## Programming languages and tools
+- C/C++
+- Java
+- JavaScript
+- Python
+- R Lang
+- Visual Studio Code
+- Eclipse IDE
+- Git
 
 <details>
   <summary>GitHub Stats</summary>
