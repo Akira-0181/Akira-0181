@@ -1,36 +1,54 @@
 <!--
-**Nhalrath/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi! Where ya lookin' at?!
 -->
 
-<p align = "center">
+<div align="center">
+  
   <img src="https://imgur.com/6AAVHpa.gif" loading="lazy" alt="Floating cube"/>
-<p/>
+  
+</div>
 
 # Nhalrath's Profile
 
+<div align="center">
+  
 ## A brief introduction
-Hello there and welcome to my profile! I'm a novice at programming, so don't expect seeing quality codes from my repositories.\
-Oh, I like books and dairy foods~
-<br>
+I'm Nhalrath, also known under the pseudonym of Akira Akiyoshi. I love reading books and writing some random stuffs, I also like to eat dairy foods with a tea while doing so. I'm a novice at programming, so don't expect much in here.
 
-## Basic details about me
-- 🔞 My age is 17
-- 🏓 My hobbies are writing a novella, drawing pixel arts, and of course; programming
+</div>
 
-## Programming languages and tools
-- C/C++
-- Java
-- JavaScript
-- Python
-- R Lang
-- Visual Studio Code
-- Eclipse IDE
-- Git
-- cUrl
+---
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>Programming Languages</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="Most used language"/>
+  - C/C++
+  - Java
+  - JavaScript
+  - Perl
+  - Python
+  - R Lang
 </details>
+<details>
+  <summary>Tools</summary>
+  
+  - cUrl
+  - Git
+  - Eclipse IDE
+  - Visual Studio 2019
+  - Visual Studio Code
+</details>
+<details>
+  <summary>Socials</summary>
+  
+  - Discord - 昭義明 | Nhalrath#0181
+  - Reddit - [u/Nhalrath](https://reddit.com/u/Nhalrath)
+  - Steam - [Nhalrath](https://steamcommunity.com/id/osmanthus_akira)
+  - Twitter - [@OsmanthusAkira](https://twitter.com/OsmanthusAkira)
+  - Yahoo Mail - akira.yami@yahoo<span/>.com
+</details>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="Most used language"/>
