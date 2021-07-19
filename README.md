@@ -51,4 +51,4 @@ I'm Nhalrath, also known under the pseudonym of Akira Akiyoshi. I love reading b
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhalrath&show_icons=true&hide_border=true&theme=tokyonight" loading="lazy" align="left" alt="Most used language"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhalrath&show_icons=true&hide_border=true&layout=compact&theme=tokyonight" loading="lazy" align="left" alt="Most used language"/>
